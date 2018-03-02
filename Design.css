@@ -1,0 +1,15 @@
+#header {width: 100%;
+	background-color: black; font-family: Arial;
+	font-weight: bold; padding: 10px; font-size: 150%;}
+	
+body {background-color: #cccccc;}
+	
+h1 {color: white; text-align: center;}
+
+div#scatter {width: 48%; float: left; padding: 5px;}
+div#histogram {width: 48%; float: right; padding: 5px;}
+div#histogram2 {width: 48%; float: left; padding: 5px;}
+div#toPie {width: 48%; float: right; padding: 5px;}
+
+
+
